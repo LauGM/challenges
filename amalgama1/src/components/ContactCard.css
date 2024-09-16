@@ -1,0 +1,13 @@
+.contact-card{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 33%;
+    box-shadow: 2px 2px 2px 2px white;
+}
+
+.contact-card img{
+    border-radius: 50%;
+    filter: drop-shadow(5px 5px 5px white)
+}

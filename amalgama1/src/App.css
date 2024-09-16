@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0; /* Eliminar el espacio extra del lado izquierdo */
+}
+
+li {
+  margin-bottom: 10px; /* Espacio entre items */
+  font-size: 14px; /* Tamaño de fuente */
+  color: #878787; /* Color del texto */
+}
+
